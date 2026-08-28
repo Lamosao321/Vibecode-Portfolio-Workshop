@@ -5,7 +5,7 @@ Just copy and paste each prompt block when instructed.
 
 ## Prompt 1 — Initialize Project
 ```text
-Create a new React project in this directory using Vite, TypeScript, and Tailwind CSS.
+Create a new React project in this directory using Vite, Javascript, and Tailwind CSS.
 Install all dependencies.
 When done, stop.
 ```
